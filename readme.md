@@ -10,8 +10,11 @@ A bundle of quick notes i've prepared for the LFCS exam, offered by Linux Founda
 - Hardlink and softlink
 - Search in file system
 - Work around with file content
+- File attributes
+- ACL: Access Control List
 - Archive, backup, compress
 - Redirecting and piping
+- User, group management
 - Operating mode
 - Manage processes and services
 - Analyze logs
@@ -21,10 +24,8 @@ A bundle of quick notes i've prepared for the LFCS exam, offered by Linux Founda
 - Working with LVM
 - Encrypt partition
 - RAID
-- File attributes
-- ACL: Access Control List
 - Disk quota
 - SELinux
 - Email alias
 - DNS server
-- User, group management
+
